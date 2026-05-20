@@ -37,7 +37,7 @@ Refer to each repository’s README for specific setup instructions and document
 
 ## Issue Reporting
 
-If you’ve encountered a bug, have a question, or want to suggest an improvement, please open an issue in the relevant repository, or inside of the (Issue Tracker Repository)[https://github.com/Fusion-Corporation/Issues]
+If you’ve encountered a bug, have a question, or want to suggest an improvement, please open an issue in the relevant repository, or inside of the Issue Tracker Repository (https://github.com/Fusion-Corporation/Issues)
 
 Before submitting:
 
