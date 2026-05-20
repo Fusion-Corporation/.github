@@ -82,7 +82,9 @@ Across all projects, we aim to maintain:
 ## Contact
 
 For broader questions, partnerships, or discussions, please either open a ticket in our official discord server, or email us.
+
 Discord: https://discord.gg/62TKrdnCqC
+
 Email: support@fusioncorporation.co.uk
 
 ---
